@@ -1,7 +1,5 @@
 ## Myapp
 
-ass
+
 
 #### License
-
-MIT
